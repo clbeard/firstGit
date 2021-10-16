@@ -1,0 +1,59 @@
+﻿  bullet.cpp
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\bullet.cpp(23,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\bullet.cpp(24,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\bullet.cpp(50,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\bullet.cpp(51,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\bullet.cpp(109,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\bullet.cpp(110,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\bullet.cpp(135,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\bullet.cpp(136,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  largeRock.cpp
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(27,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(28,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(52,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(53,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(78,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(84,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(101,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(107,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(125,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(131,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(148,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(154,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(186,18): warning C4305: '+=': truncation from 'double' to 'float'
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(198,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(205,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(212,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\largeRock.cpp(219,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(75,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(77,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(126,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(214,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(215,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(458,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(458,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(459,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(459,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(462,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(492,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(499,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(506,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(513,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(590,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\main.cpp(590,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  smallRock.cpp
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(27,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(28,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(49,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(50,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(57,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(103,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(104,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(142,18): warning C4305: '+=': truncation from 'double' to 'float'
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(150,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(157,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(164,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\smallRock.cpp(171,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDLGame2.vcxproj -> D:\USBSchool\Semester 8\Advanced Computer Programming ITSE-2359-7Z1\Week4C++\CBeardCPPProject3_1B\SDLGame2\x64\Debug\SDLGame2.exe
