@@ -1,0 +1,1 @@
+[Insert string function content here] 
